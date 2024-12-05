@@ -6,6 +6,8 @@ Dicha especificación o convención define una serie de reglas para escribir los
 
 Al poder describir en los mensajes de los commits las funcionalidades, arreglos y cambios de ruptura hechos, esta convención encaja a la perfección con Semantic Versioning o Semver.
 
+La página que se seguirá para los patrones de diseño es la siguiente https://refactoring.guru/
+
 **Se trata de la convención más extendida para establecer un versionado a librerías, paquetes o dependencias, estableciendo tres bloques separados:**
 
 - **MAJOR**: número de versión que se incrementa cuando se rompe la compatibilidad de versiones anteriores.
